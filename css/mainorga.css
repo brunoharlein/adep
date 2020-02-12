@@ -100,11 +100,7 @@ textarea {
 main {
   display: flex;
   justify-content: space-around;
-  margin-top: 20px;
-}
-.w-80 {
-  width: 80%;
-  margin: auto;
+  margin-top: 40px;
 }
 /* ==========================================================================
    Helper classes
